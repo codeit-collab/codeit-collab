@@ -21,8 +21,8 @@ I build modern, scalable web applications and craft custom tools for **bug bount
 - 💬 **Ask me about:** HTML5, CSS3, JavaScript, React, Node.js, Express, Python, Bash, Schadcn 
 - ⚡ **Fun fact:** I code 5–7 hours daily  
 - ⚙️ **Tech Stack:**
-  - ***Frontend:*** React • shadcn/ui • HTML5 • CSS3 • TypeScript
-  - ***Backend:*** Node.js • Express • REST APIs
+  - ***Frontend:*** React • shadcn/ui • HTML5 • CSS3 • TypeScript • Vite
+  - ***Backend:*** Node.js • Express • REST APIs 
   - ***Security & Scripting:*** Python • Bash • Automation • Recon Tools
 
 - 🛠️ **Interests:** Bug Bounty Hunting • Web Pentesting • Tool Development
