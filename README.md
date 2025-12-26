@@ -46,7 +46,7 @@ I build modern, scalable web applications and craft custom tools for **bug bount
 <img src="https://skillicons.dev/icons?i=python,bash,js,html,css,typescript" />
 
 ### Frameworks  
-<img src="https://skillicons.dev/icons?i=react,tailwindcss,expressjs,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,tailwindcss,expressjs,nextjs,vite,neon,stackauth" />
 
 ### Databases  
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
